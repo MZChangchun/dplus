@@ -13,6 +13,7 @@
 dplus.init({
   appkey: "", //申请的appkey
   username: "", //登录的用户名
+  area: '330100', //areacode
 })
 ```
 
