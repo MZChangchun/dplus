@@ -28,7 +28,7 @@ dplus.beginLogPageView({
 页面离开埋点
 ```
 dplus.endLogPageView({
-  pageName: 'loginview'//自定义的页面的名称
+  pageName: 'loginview'//自定义的页面的名称 和页面进入埋点的自定义名称一致
 })
 ```
 
